@@ -5,7 +5,6 @@
 }
 
 .team-member {
-   background-color: var(--white-text);
    width: 270px;
    height: 368px;
 }
@@ -16,6 +15,7 @@
 }
 .team-info {
    padding: 30px 7px 30px 7px;
+   background-color: #fff;
 }
 .team-member-name {
    font-weight: 500;
